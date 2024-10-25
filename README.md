@@ -37,8 +37,8 @@ Desarrollo de una WebApp para mejorar la salud financiera de clientes de Kutxaba
 
 
 ## 🧑‍🤝‍🧑 Equipo 3
-- Profesor principal: [Iraitz Montalban](https://github.com/IraitzM)
-- Profesor asistente: [Luis Miguel Andújar Baena](https://www.linkedin.com/in/luismi-andujar/)
+- **Profesor principal:** [Iraitz Montalban](https://github.com/IraitzM)
+- **Profesor asistente:** [Luis Miguel Andújar Baena](https://www.linkedin.com/in/luismi-andujar/)
 - **Participantes:**
     - [Rodrigo Meza](https://github.com/rodrigomezaortiz)
     - [Josu Goiria Orán](https://github.com/JosuDS)

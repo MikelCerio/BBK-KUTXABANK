@@ -3,6 +3,7 @@
 La base de datos `bd_reto` fue diseñada en MySQL para proporcionar soporte al equipo de desarrollo FullStack, utilizando DBeaverCE como herramienta de gestión de la base de datos. A continuación, se detallan las tablas que componen la base de datos, junto con sus respectivas columnas y relaciones.
 
 
+![Descripción de la imagen](bd_reto.png)
 
 
 

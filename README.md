@@ -3,9 +3,9 @@
 Es la práctica integrada en la que trabaja el alumnado de todas las disciplinas a través de un proyecto real diseñado conjuntamente con un partner y desarrollado por los estudiantes durante las últimas semanas de formación en el Bootcamp.
 
 Patrocinado por:
-- [Lanbide](https://www.lanbide.euskadi.eus/inicio/)
-- [BBK](https://portal.kutxabank.es/cs/Satellite/kb/es/particulares)
-- [The Bridge](https://thebridge.tech/)
+- 🧑‍🤝‍🧑 [Lanbide](https://www.lanbide.euskadi.eus/inicio/)
+- 🏦 [BBK](https://portal.kutxabank.es/cs/Satellite/kb/es/particulares)
+- ⛩️ [The Bridge](https://thebridge.tech/)
 
 ## 🎯 Objetivo
 Con esta práctica el alumnado se enfrenta al día a día de su futuro profesional trabajando de principio a fin en un proyecto en el que se involucran como miembros del departamento de una empresa o simulando el emprendimiento de un proyecto propio.

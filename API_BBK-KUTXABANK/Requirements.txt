@@ -1,0 +1,7 @@
+pandas
+hmmlearn
+faker
+numpy
+ramdom
+datetime
+fastapi[standard] 
